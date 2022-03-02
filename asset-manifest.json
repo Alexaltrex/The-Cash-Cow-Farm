@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/The-Cash-Cow-Farm/static/css/main.073c9b0a.css",
-    "main.js": "/The-Cash-Cow-Farm/static/js/main.69cb2a90.js",
+    "main.css": "/The-Cash-Cow-Farm/static/css/main.ed961ab4.css",
+    "main.js": "/The-Cash-Cow-Farm/static/js/main.62dceac3.js",
     "static/js/787.c1112931.chunk.js": "/The-Cash-Cow-Farm/static/js/787.c1112931.chunk.js",
-    "static/media/logo.svg": "/The-Cash-Cow-Farm/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/second-back.png": "/The-Cash-Cow-Farm/static/media/second-back.60b65b0d101ee275aa9e.png",
+    "static/media/centurygothic.ttf": "/The-Cash-Cow-Farm/static/media/centurygothic.b194aa2bd524e2c973f7.ttf",
+    "static/media/centurygothic_bold.ttf": "/The-Cash-Cow-Farm/static/media/centurygothic_bold.861d22617fdfce5fc922.ttf",
+    "static/media/HessGothicRoundNFW01Bold.ttf": "/The-Cash-Cow-Farm/static/media/HessGothicRoundNFW01Bold.3e28b810aa02d4d81536.ttf",
     "index.html": "/The-Cash-Cow-Farm/index.html",
-    "main.073c9b0a.css.map": "/The-Cash-Cow-Farm/static/css/main.073c9b0a.css.map",
-    "main.69cb2a90.js.map": "/The-Cash-Cow-Farm/static/js/main.69cb2a90.js.map",
+    "main.ed961ab4.css.map": "/The-Cash-Cow-Farm/static/css/main.ed961ab4.css.map",
+    "main.62dceac3.js.map": "/The-Cash-Cow-Farm/static/js/main.62dceac3.js.map",
     "787.c1112931.chunk.js.map": "/The-Cash-Cow-Farm/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.69cb2a90.js"
+    "static/css/main.ed961ab4.css",
+    "static/js/main.62dceac3.js"
   ]
 }
